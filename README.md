@@ -20,5 +20,26 @@ A Python application that visualizes the implied volatility surface for SPY opti
 - **SciPy**: Root-finding and normal distribution functions for calculating implied volatility.
 - **Plotly**: 3D plotting and visualization of the implied volatility surface.
 
+##Application View
+<img width="2662" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3169db8-d08f-43e8-be86-fc9c8326fb5c" />
+<img width="2852" height="1588" alt="image" src="https://github.com/user-attachments/assets/1ab5cddd-562e-4a77-bee3-a48da1dd419e" />
+
+
+##Accssing Application
+1. Clone the repository in a folder
+2. Open folder on vs code
+3. Create virtual environment
+   python -m venv venv
+4.Install Requirements
+  pip install -r requirements.txt
+5.Run the Application
+  streamlit run app.py
+
+   
+
+
+
+
+
 
 
