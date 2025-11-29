@@ -27,14 +27,12 @@ A Python application that visualizes the implied volatility surface for SPY opti
 ##  Accessing Application
 1. Clone the repository in a folder
 2. Open folder on vs code
-3. Create virtual environment
-   python -m venv venv
-4.Install Requirements
-  pip install -r requirements.txt
-5.Run the Application
-  streamlit run app.py
+3. Create virtual environment : python -m venv venv
+4.Install Requirements : pip install -r requirements.txt
+5.Run the Application : streamlit run app.py
 
    
+
 
 
 
